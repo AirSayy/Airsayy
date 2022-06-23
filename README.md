@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/475eb095746151.5e9ecde695f7a.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Eseoghene Eguakhide</h1>
 <h3 align="center">A passionate Software Developer from Nigeria</h3>
-<img align ="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_senpPqMTyMZRIqaJ-0WGR3P3-3BaDtvbkQ&usqp=CAU">
+<img align ="center" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_senpPqMTyMZRIqaJ-0WGR3P3-3BaDtvbkQ&usqp=CAU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=airsayy&label=Profile%20views&color=0e75b6&style=flat" alt="airsayy" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=airsayy" alt="airsayy" /></a> </p>
 
