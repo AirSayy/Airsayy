@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/475eb095746151.5e9ecde695f7a.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Eseoghene Eguakhide</h1>
-<h3 align="center">A passionate Software Developer from Nigeria</h3>
+<h3 align="center">A passionate Software Engineer from Nigeria</h3>
 <img align ="center" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_senpPqMTyMZRIqaJ-0WGR3P3-3BaDtvbkQ&usqp=CAU">
 
 
@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/aishaese" target="blank"><img src="https://img.shields.io/twitter/follow/aishaese?logo=twitter&style=for-the-badge" alt="aishaese" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning 
 
-- 💬 Ask me about **HTML, CSS , JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS , JAVASCRIPT , REACT , REACT NATIVE , MONGO DB , NODE JS , OOP**
 
 - 📫 How to reach me **eruotorese@yahoo.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/eseoghene-a-eguakhide-995010120/](https://www.linkedin.com/in/eseoghene-a-eguakhide-995010120/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/airsay/](https://www.linkedin.com/in/airsay/)
 
 - ⚡ Fun fact **I think i'm funny and ohhh!! i'm a foodie that selects.**
 
