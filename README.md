@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning 
 
-- 💬 Ask me about **HTML, CSS , JAVASCRIPT , REACT , REACT NATIVE , MONGO DB , NODE JS , OOP**
+- 💬 Ask me about **HTML, CSS , JAVASCRIPT , REACT , REACT NATIVE , MONGO DB , NODE JS , OOP , Figma**
 
 - 📫 How to reach me **eruotorese@yahoo.com**
 
