@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/475eb095746151.5e9ecde695f7a.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Eseoghene Eguakhide</h1>
-<h3 align="center">A passionate Software Engineer from Nigeria</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 <img align ="center" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_senpPqMTyMZRIqaJ-0WGR3P3-3BaDtvbkQ&usqp=CAU">
 
 
