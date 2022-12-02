@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [airsay.netlify.app](airsay.netlify.app)
 
-- 💬 Ask me about **HTML, CSS , JAVASCRIPT , REACT , REACT NATIVE , MONGO DB , NODE JS , OOP , FIGMA**
+- 💬 Ask me about **HTML, CSS , JAVASCRIPT , REACT , EXPRESS JS,  REACT NATIVE , MONGO DB , NODE JS , OOP , FIGMA**
 
 - 📫 How to reach me **eruotorese@yahoo.com**
 
