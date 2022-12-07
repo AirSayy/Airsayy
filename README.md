@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning 
 
-- 👨‍💻 All of my projects are available at [airsay.netlify.app](airsay.netlify.app)
+- 👨‍💻 All of my projects are available at [airsay.codes](airsay.netlify.app)
 
 - 💬 Ask me about **HTML, CSS , JAVASCRIPT , REACT , EXPRESS JS,  REACT NATIVE , MONGO DB , NODE JS , OOP , FIGMA**
 
-- 📫 How to reach me **http://linktr.ee/Airsay**
+- 📫 How to reach me **linktr.ee/Airsay**
 
 - 📄 Know about my experiences [airsay/in](https://www.linkedin.com/in/airsay/)
 
