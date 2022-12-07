@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **HTML, CSS , JAVASCRIPT , REACT , EXPRESS JS,  REACT NATIVE , MONGO DB , NODE JS , OOP , FIGMA**
 
-- 📫 How to reach me **eruotorese@yahoo.com**
+- 📫 How to reach me **http://linktr.ee/Airsay**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/airsay/](https://www.linkedin.com/in/airsay/)
+- 📄 Know about my experiences [airsay/in](https://www.linkedin.com/in/airsay/)
 
 - ⚡ Fun fact **I think i'm funny and ohhh!! i'm a foodie that selects.**
 
