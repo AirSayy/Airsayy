@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/aishaese" target="blank"><img src="https://img.shields.io/twitter/follow/aishaese?logo=twitter&style=for-the-badge" alt="aishaese" /></a> </p>
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning TypeScript
 
 - 👨‍💻 All of my projects are available at [airsay.codes](airsay.netlify.app)
 
